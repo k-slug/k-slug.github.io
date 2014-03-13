@@ -1,3 +1,10 @@
-name: Your New Jekyll Site
+name: K-Slug
 markdown: redcarpet
 pygments: true
+authors:
+  brian:
+    display_name: Brian Cain
+    gravatar: dcb438117ec14a9eea701fe495053173
+    email: brianccain@gmail.com
+    twitter: brian_cain
+    github: briancain
