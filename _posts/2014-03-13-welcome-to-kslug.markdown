@@ -3,6 +3,7 @@ layout: post
 author: brian
 title:  "Welcome to the New K-Slug!"
 date:   2014-03-13 16:01:37
+comments: true
 categories: jekyll update
 ---
 
